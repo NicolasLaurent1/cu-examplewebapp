@@ -22,10 +22,9 @@ docker run --rm -it -p 8080:80 aspnetcore/examplewebapp
 
 * view result: 
 
-`http://localhost:8080/`
-<kbd>
+
 ![result](localhost_8080.png)
-<kbd>
+
 
 
 
