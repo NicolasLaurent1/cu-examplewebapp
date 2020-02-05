@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj": {}
+    "d:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj": {}
   },
   "projects": {
-    "D:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj": {
+    "d:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj",
+        "projectUniqueName": "d:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj",
         "projectName": "ExampleWebApp",
-        "projectPath": "D:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj",
+        "projectPath": "d:\\1920\\CIA\\ExampleWebApp\\ExampleWebApp.csproj",
         "packagesPath": "C:\\Users\\william.schokkele\\.nuget\\packages\\",
-        "outputPath": "D:\\1920\\CIA\\ExampleWebApp\\obj\\",
+        "outputPath": "d:\\1920\\CIA\\ExampleWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

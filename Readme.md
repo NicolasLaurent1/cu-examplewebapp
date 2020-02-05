@@ -7,17 +7,17 @@
 
 ## Branches
 * **01start**: original project start
-* **02dockerfile** or **master**: costains Dockerfile
+* **02dockerfile** or **master**: contains Dockerfile
 
 ## Use
 
 * create image: 
 ````
-docker build -t aspnetcore/examplewebapp .
+docker build -t examplewebapp .
 ````
 * run container: 
 ````
-docker run --rm -it -p 8080:80 aspnetcore/examplewebapp
+docker run --rm -it -p 8080:80 examplewebapp
 ````
 
 * view result: 
